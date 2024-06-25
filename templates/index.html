@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopping Buddy</title>
+    <style>
+        /* ... el resto del CSS ... */
+
+        form {
+            background-color: #fff;
+            padding: 40px; /* aumentar el padding */
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"], input[type="submit"] {
+            font-size: 20px; /* aumentar el tamaño de la fuente */
+            padding: 15px; /* aumentar el padding */
+            width: 100%; /* establecer el ancho al 100% */
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+        }
+        th, td {
+            text-align: left;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form action="/process" method="post">
+        <input type="text" name="user_input" placeholder="Escribe algo aquí...">
+        <input type="submit" value="Enviar">
+    </form>
+    {% if response %}
+        <table>
+            <tr>
+                <th>Response</th>
+                <td>{{ response }}</td>
+            </tr>
+            <tr>
+                <th>Intent</th>
+                <td>{{ intent }}</td>
+            </tr>
+            <tr>
+                <th>Articulo</th>
+                <td>{{ articulo }}</td>
+            </tr>
+            <tr>
+                <th>Pedido</th>
+                <td>{{ pedido }}</td>
+            </tr>
+        </table>
+    {% endif %}
+</body>
+</html>
