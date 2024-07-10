@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "tipo": "camisa",
+        "color": "azul",
+        "talla": "M",
+        "cantidad_disponible": 10,
+        "precio": 29.99,
+        "descripción": "Camisa de algodón azul con botones, ideal para ocasiones casuales."
+    },
+    {
+        "id": 2,
+        "tipo": "pantalón",
+        "color": "negro",
+        "talla": "L",
+        "cantidad_disponible": 5,
+        "precio": 49.99,
+        "descripción": "Pantalón negro de corte recto, perfecto para el trabajo o eventos formales."
+    },
+    {
+        "id": 3,
+        "tipo": "falda",
+        "color": "rojo",
+        "talla": "S",
+        "cantidad_disponible": 7,
+        "precio": 39.99,
+        "descripción": "Falda roja de tela ligera, ideal para el verano."
+    },
+    {
+        "id": 4,
+        "tipo": "chaqueta",
+        "color": "verde",
+        "talla": "XL",
+        "cantidad_disponible": 3,
+        "precio": 59.99,
+        "descripción": "Chaqueta verde de lana, perfecta para el invierno."
+    },
+    {
+        "id": 5,
+        "tipo": "camiseta",
+        "color": "blanco",
+        "talla": "M",
+        "cantidad_disponible": 15,
+        "precio": 19.99,
+        "descripción": "Camiseta blanca de algodón, básica y cómoda para el día a día."
+    },
+    {
+        "id": 6,
+        "tipo": "vestido",
+        "color": "amarillo",
+        "talla": "M",
+        "cantidad_disponible": 8,
+        "precio": 45.99,
+        "descripción": "Vestido amarillo de verano, ligero y cómodo para días soleados."
+      },
+      {
+        "id": 7,
+        "tipo": "sudadera",
+        "color": "gris",
+        "talla": "L",
+        "cantidad_disponible": 12,
+        "precio": 34.99,
+        "descripción": "Sudadera gris con capucha, perfecta para el otoño."
+      },
+      {
+        "id": 8,
+        "tipo": "shorts",
+        "color": "azul marino",
+        "talla": "S",
+        "cantidad_disponible": 20,
+        "precio": 24.99,
+        "descripción": "Shorts azul marino, ideales para actividades deportivas."
+      },
+      {
+        "id": 9,
+        "tipo": "blusa",
+        "color": "blanco",
+        "talla": "M",
+        "cantidad_disponible": 10,
+        "precio": 29.99,
+        "descripción": "Blusa blanca de seda, elegante y perfecta para ocasiones especiales."
+      },
+      {
+        "id": 10,
+        "tipo": "jeans",
+        "color": "azul claro",
+        "talla": "M",
+        "cantidad_disponible": 6,
+        "precio": 49.99,
+        "descripción": "Jeans azul claro de corte ajustado, cómodos y a la moda."
+      },
+      {
+        "id": 11,
+        "tipo": "camisa",
+        "color": "azul",
+        "talla": "L",
+        "cantidad_disponible": 8,
+        "precio": 29.99,
+        "descripción": "Camisa de algodón azul con botones, ideal para ocasiones casuales."
+    },
+    {
+        "id": 12,
+        "tipo": "pantalón",
+        "color": "negro",
+        "talla": "M",
+        "cantidad_disponible": 7,
+        "precio": 49.99,
+        "descripción": "Pantalón negro de corte recto, perfecto para el trabajo o eventos formales."
+    },
+    {
+        "id": 13,
+        "tipo": "falda",
+        "color": "rojo",
+        "talla": "M",
+        "cantidad_disponible": 5,
+        "precio": 39.99,
+        "descripción": "Falda roja de tela ligera, ideal para el verano."
+    },
+    {
+        "id": 14,
+        "tipo": "chaqueta",
+        "color": "verde",
+        "talla": "L",
+        "cantidad_disponible": 4,
+        "precio": 59.99,
+        "descripción": "Chaqueta verde de lana, perfecta para el invierno."
+    },
+    {
+        "id": 15,
+        "tipo": "camiseta",
+        "color": "blanco",
+        "talla": "L",
+        "cantidad_disponible": 10,
+        "precio": 19.99,
+        "descripción": "Camiseta blanca de algodón, básica y cómoda para el día a día."
+    },
+    {
+        "id": 16,
+        "tipo": "vestido",
+        "color": "amarillo",
+        "talla": "S",
+        "cantidad_disponible": 6,
+        "precio": 45.99,
+        "descripción": "Vestido amarillo de verano, ligero y cómodo para días soleados."
+    },
+    {
+        "id": 17,
+        "tipo": "sudadera",
+        "color": "gris",
+        "talla": "M",
+        "cantidad_disponible": 9,
+        "precio": 34.99,
+        "descripción": "Sudadera gris con capucha, perfecta para el otoño."
+    },
+    {
+        "id": 18,
+        "tipo": "shorts",
+        "color": "azul marino",
+        "talla": "M",
+        "cantidad_disponible": 15,
+        "precio": 24.99,
+        "descripción": "Shorts azul marino, ideales para actividades deportivas."
+    },
+    {
+        "id": 19,
+        "tipo": "blusa",
+        "color": "blanco",
+        "talla": "S",
+        "cantidad_disponible": 8,
+        "precio": 29.99,
+        "descripción": "Blusa blanca de seda, elegante y perfecta para ocasiones especiales."
+    },
+    {
+        "id": 20,
+        "tipo": "jeans",
+        "color": "azul claro",
+        "talla": "L",
+        "cantidad_disponible": 4,
+        "precio": 49.99,
+        "descripción": "Jeans azul claro de corte ajustado, cómodos y a la moda."
+    }
+]
